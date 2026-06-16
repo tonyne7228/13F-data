@@ -1,0 +1,22 @@
+{
+  "2330.TW": {
+    "name": "臺積電",
+    "is_us": false
+  },
+  "2317.TW": {
+    "name": "鴻海",
+    "is_us": false
+  },
+  "QQQM": {
+    "name": "QQQM",
+    "is_us": true
+  },
+  "VOO": {
+    "name": "VOO",
+    "is_us": true
+  },
+  "SGOV": {
+    "name": "SGOV短期國債",
+    "is_us": true
+  }
+}
